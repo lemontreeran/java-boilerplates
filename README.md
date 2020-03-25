@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/BE-Kits/java-boilerplates">
     <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     Boilerplates for your java projects, maven & gradle & spring & mybatis & netty.
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BE-Kits/java-boilerplates"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/BE-Kits/java-boilerplates">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/BE-Kits/java-boilerplates/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/BE-Kits/java-boilerplates/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,10 +53,10 @@ npm install npm@latest -g
 
 ## Installation
 
-1. Clone the repo
+1. Clone the java-boilerplates
 
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/BE-Kits/java-boilerplates.git
 ```
 
 2. Install NPM packages
@@ -79,7 +79,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BE-Kits/java-boilerplates/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -116,13 +116,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BE-Kits/java-boilerplates.svg?style=flat-square
+[contributors-url]: https://github.com/BE-Kits/java-boilerplates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BE-Kits/java-boilerplates.svg?style=flat-square
+[forks-url]: https://github.com/BE-Kits/java-boilerplates/network/members
+[stars-shield]: https://img.shields.io/github/stars/BE-Kits/java-boilerplates.svg?style=flat-square
+[stars-url]: https://github.com/BE-Kits/java-boilerplates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BE-Kits/java-boilerplates.svg?style=flat-square
+[issues-url]: https://github.com/BE-Kits/java-boilerplates/issues
+[license-shield]: https://img.shields.io/github/license/BE-Kits/java-boilerplates.svg?style=flat-square
+[license-url]: https://github.com/BE-Kits/java-boilerplates/blob/master/LICENSE.txt
